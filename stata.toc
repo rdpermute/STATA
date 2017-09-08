@@ -1,3 +1,0 @@
-v 3
-d Peter Ganong, Simon Jäger
-p rdpermute Permutation test for RD and RK designs
